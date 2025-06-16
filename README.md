@@ -50,8 +50,7 @@ You can enable this by pushing some commits and uncommenting:
 
 ## 📬 Contact
 
-- 💌 Email: [talent@theax.co.in](mailto:talent@theax.co.in)
-- 🌐 Website: _coming soon_
+- 💌 Email: [talent@theax.co.in](mailto:umar@theax.in)
 
 ---
 
